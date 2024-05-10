@@ -1,0 +1,3 @@
+C:\Users\Eldar\source\repos\Laba6_0\Laba6_0\Debug\Laba6_0.vcxproj.AssemblyReference.cache
+C:\Users\Eldar\source\repos\Laba6_0\Laba6_0\Debug\Laba60.MyForm.resources
+C:\Users\Eldar\source\repos\Laba6_0\Laba6_0\Debug\Laba6_0.vcxproj.GenerateResource.cache
